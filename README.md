@@ -1,4 +1,4 @@
-# **INKLUSION**
+# **Love Running**
 
 ![Live Project Mockup](path to mockup image goes here)
 
